@@ -28,10 +28,6 @@ Make sure you have Python 3.x installed on your system. You can download it from
 ### 2. Install Required Packages
 You can install the necessary Python packages using `pip` by running the following command:
 
-```bash
-pip install -r requirements.txt
-```
-
 ## Learning Path
 
 The learning path is designed to take you from beginner to intermediate-level Python skills, tailored specifically for Data Science.
@@ -107,9 +103,6 @@ This repository makes use of the following Python packages, which are essential 
 
 To install the required packages, simply run:
 
-```bash
-pip install -r requirements.txt
-```
 
 ## License
 
